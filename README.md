@@ -23,7 +23,7 @@ All you should have to do is rename your repository on GitHub to be
 `username.github.com`. Since everything is on the `gh-pages` branch, you
 should be able to see your new site at <http://username.github.com>.
 
-# License
+## License
 
 Permission is granted to Do What The Fuck You Want To with this document under
 the terms of the [WTF Public License](http://sam.zoy.org/wtfpl/), Version 2.
